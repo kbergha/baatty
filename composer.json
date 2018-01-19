@@ -1,0 +1,16 @@
+{
+    "name": "kbergha/baatty",
+    "description": "B\u0000tty the bush bot-aroo",
+    "authors": [
+        {
+            "name": "Knut Erik Berg-Hansen",
+            "email": "kbergha@gmail.com"
+        }
+    ],
+    "require": {
+        "larislackers/php-binance": "^1.0",
+        "symfony/console": "^4.0",
+        "vlucas/phpdotenv": "^2.4",
+        "roave/security-advisories": "dev-master"
+    }
+}
