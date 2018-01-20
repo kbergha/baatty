@@ -49,6 +49,8 @@ class Webservice {
     // @todo: Structure a lot better.
     // @todo: more data in trade array (profit, capital gain, type, timestamp)
     // @todo: props from .env
+    // @todo: Both BTC and USD accounts/props that fees are taken and calculated from when buying/selling.
+    // @todo: remove capital diff prop, calculate directly from (current - start)
 
 
     public function formatUsd($number) {
